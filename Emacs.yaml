@@ -1,0 +1,15 @@
+payload:
+  # Emacs
+  # Package
+  - DOMAIN-SUFFIX,melpa.org
+  - DOMAIN,elpa.gnu.org
+  - DOMAIN-SUFFIX,orgmode.org
+
+  # Ivy
+  - DOMAIN-SUFFIX,oremacs.com
+
+  # Forum
+  - DOMAIN-SUFFIX,emacs-china.org
+
+  # Wiki
+  - DOMAIN-SUFFIX,emacswiki.org
