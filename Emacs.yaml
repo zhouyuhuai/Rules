@@ -8,8 +8,5 @@ payload:
   # Ivy
   - DOMAIN-SUFFIX,oremacs.com
 
-  # Forum
-  - DOMAIN-SUFFIX,emacs-china.org
-
   # Wiki
   - DOMAIN-SUFFIX,emacswiki.org
