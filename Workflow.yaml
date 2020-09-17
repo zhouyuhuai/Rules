@@ -2,4 +2,4 @@ payload:
 #>Workflow
 
 # archlinux
-DOMAIN-SUFFIX,archlinux.org
+- DOMAIN-SUFFIX,archlinux.org
