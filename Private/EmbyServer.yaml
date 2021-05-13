@@ -1,0 +1,4 @@
+payload:
+  # > TheMoiveDB
+  - DOMAIN-SUFFIX,themoviedb.org
+  - DOMAIN-SUFFIX,tmdb.org
